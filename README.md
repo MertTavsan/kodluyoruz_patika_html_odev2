@@ -1,0 +1,2 @@
+# kodluyoruz_patika_html_odev2
+Sevdiklerimden bahsetme
